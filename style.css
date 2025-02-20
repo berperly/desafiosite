@@ -1,10 +1,11 @@
 .navbar {
     display: flex;
     justify-content: center;
-    align-items: center; /* Mantém os itens alinhados verticalmente */
+    align-items: center;
     height: 60px;
     font-size: 30px;
-    background-color: #f8f9fa; /* Adiciona um fundo para melhorar a visibilidade */
+    background-color: #f8f9fa; 
+    font-family: fantasy;
   }
   
 
@@ -13,9 +14,10 @@
     justify-content: center;
     align-items: center;
     width: 100%;
+    font-family: fantasy;
   }
-  
 
+ 
   .meu-card {
     width: 100%;
     max-width: 20rem;
@@ -39,3 +41,21 @@
     border-top-right-radius: 10px;
   }
   
+  .table {
+    border-radius: 10px;
+    position: relative;
+  }
+  
+  .botao {
+    position: absolute;
+    left: 14.3%;
+    transform: translateX(-50%);
+    bottom: 80px; 
+}
+
+.botao2 {
+    position: absolute;
+    right: 19.5%;
+    transform: translateX(50%);
+    bottom: 80px;
+}
