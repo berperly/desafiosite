@@ -1,0 +1,63 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  font-size: 30px;
+  background-color: #f8f9fa;
+  font-family: fantasy;
+}
+
+.body {
+  background-color: rgb(0, 0, 255);
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-family: fantasy;
+}
+
+.card {
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+    overflow: hidden; 
+    }
+  
+h1{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        padding: 20px;
+        height: 100px;
+        line-height: 100px;
+        font-size: 36px;
+        position: relative;
+      }
+
+p{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        padding: 20px;
+        height: 100px;
+        line-height: 100px;
+        font-size: 17px;
+        position: relative;
+      }
+
+      .botao {
+        display: flex;
+        justify-content: space-evenly; 
+        gap: 20px; 
+      }
+      
+      .botao button {
+        width: auto;
+        max-width: 200px;
+      }
+      
+      
