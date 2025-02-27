@@ -1,3 +1,1 @@
-Primeiro commit feito no projeto aqui no github foi upar ele para mexer na faculdade.
-
-Estou tentando usar o minimo de IAs para concluir o projeto.
+Os commits são para transferir os arquivos de casa (desktop) para a faculdade (notebook)
